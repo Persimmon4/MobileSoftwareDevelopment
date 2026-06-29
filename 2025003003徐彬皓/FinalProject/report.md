@@ -2,9 +2,9 @@
 
 GitHub 仓库地址：https://github.com/Persimmon4/MelodyFlow.git
 
-## 1. 项目简介
 
-# 🎵 MelodyFlow
+
+# 🎵 Android 音乐播放器 FinalProject
 
 > A modern local music player built with Kotlin and Jetpack Compose.
 
@@ -49,7 +49,7 @@ https://github.com/Persimmon4/MelodyFlow
 - 分类筛选
 - 歌曲列表浏览
 
-<img src="Home.png" width="280"/>
+<img src="screenshots/Home.png" width="280"/>
 
 ---
 
@@ -63,7 +63,7 @@ https://github.com/Persimmon4/MelodyFlow
 - 拖动播放进度
 - 收藏歌曲
 
-<img src="player.png" width="280"/>
+<img src="screenshots/player.png" width="280"/>
 
 ---
 
@@ -77,7 +77,7 @@ https://github.com/Persimmon4/MelodyFlow
 - 收藏歌曲
 - 删除播放记录
 
-<img src="recent.png" width="280"/>
+<img src="screenshots/recent.png" width="280"/>
 
 ---
 
@@ -93,7 +93,7 @@ https://github.com/Persimmon4/MelodyFlow
 - 播放控制
 - 倍速播放（0.5x ~ 2.0x）
 
-<img src="detail.png" width="280"/>
+<img src="screenshots/detail.png" width="280"/>
 
 ---
 
@@ -105,7 +105,7 @@ https://github.com/Persimmon4/MelodyFlow
 
 - 深色模式切换
 
-<img src="settings.png" width="280"/>
+<img src="screenshots/settings.png" width="280"/>
 
 ---
 
