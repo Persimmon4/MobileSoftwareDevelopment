@@ -4,7 +4,7 @@ GitHub 仓库地址：https://github.com/Persimmon4/MelodyFlow.git
 
 
 
-# 🎵 Android 音乐播放器 FinalProject
+#  Android 音乐播放器(MP3) FinalProject
 
 > A modern local music player built with Kotlin and Jetpack Compose.
 
